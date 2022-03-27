@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+    <!--
+    scope
+    - prototype 生成多个对象
+    - singleton 生成单个对象
+    在spring中通过在xml中声明对象 其他类获得xml的实例 再通过实例创建bean对象
+    -->
+    <bean id="userDao" class="impl.UserDaoImpl" scope="singleton"/>
+
+</beans>
