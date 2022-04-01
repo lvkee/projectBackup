@@ -1,0 +1,3 @@
+[submodule "architecture"]
+	path = architecture
+	url = https://git.code.tencent.com/coding_hnist/123.git
