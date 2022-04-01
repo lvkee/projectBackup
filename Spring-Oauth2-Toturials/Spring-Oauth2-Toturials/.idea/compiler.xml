@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="test (6)" />
+        <module name="eureka (1)" />
+        <module name="zuul (1)" />
+        <module name="test (4)" />
+        <module name="auth (3)" />
+        <module name="auth" />
+        <module name="resource_server" />
+        <module name="eureka" />
+        <module name="test (8)" />
+        <module name="source" />
+        <module name="resource_server (3)" />
+        <module name="auth (1)" />
+        <module name="resource_server (1)" />
+        <module name="source (3)" />
+        <module name="source (1)" />
+        <module name="authorization_server" />
+        <module name="authorization_server (2)" />
+        <module name="test (2)" />
+        <module name="source (5)" />
+        <module name="auth (4)" />
+        <module name="test (7)" />
+        <module name="auth (2)" />
+        <module name="test (5)" />
+        <module name="test" />
+        <module name="resource_server (4)" />
+        <module name="resource_server (2)" />
+        <module name="zuul" />
+        <module name="source (4)" />
+        <module name="source (2)" />
+        <module name="authorization_server (3)" />
+        <module name="authorization_server (1)" />
+        <module name="test (3)" />
+        <module name="test (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="auth" target="1.8" />
+      <module name="auth (1)" target="1.8" />
+      <module name="auth (2)" target="1.8" />
+      <module name="auth (3)" target="1.8" />
+      <module name="auth (4)" target="1.8" />
+      <module name="authorization_server" target="1.8" />
+      <module name="authorization_server (1)" target="1.8" />
+      <module name="authorization_server (2)" target="1.8" />
+      <module name="authorization_server (3)" target="1.8" />
+      <module name="eureka" target="1.8" />
+      <module name="eureka (1)" target="1.8" />
+      <module name="resource_server" target="1.8" />
+      <module name="resource_server (1)" target="1.8" />
+      <module name="resource_server (2)" target="1.8" />
+      <module name="resource_server (3)" target="1.8" />
+      <module name="resource_server (4)" target="1.8" />
+      <module name="source" target="1.8" />
+      <module name="source (1)" target="1.8" />
+      <module name="source (2)" target="1.8" />
+      <module name="source (3)" target="1.8" />
+      <module name="source (4)" target="1.8" />
+      <module name="source (5)" target="1.8" />
+      <module name="test" target="1.8" />
+      <module name="test (1)" target="1.8" />
+      <module name="test (2)" target="1.8" />
+      <module name="test (3)" target="1.8" />
+      <module name="test (4)" target="1.8" />
+      <module name="test (5)" target="1.8" />
+      <module name="test (6)" target="1.8" />
+      <module name="test (7)" target="1.8" />
+      <module name="test (8)" target="1.8" />
+      <module name="zuul" target="1.8" />
+      <module name="zuul (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="auth" options="-parameters" />
+      <module name="auth (1)" options="-parameters" />
+      <module name="auth (2)" options="-parameters" />
+      <module name="auth (3)" options="-parameters" />
+      <module name="auth (4)" options="-parameters" />
+      <module name="authorization_server" options="-parameters" />
+      <module name="authorization_server (1)" options="-parameters" />
+      <module name="authorization_server (2)" options="-parameters" />
+      <module name="authorization_server (3)" options="-parameters" />
+      <module name="eureka" options="-parameters" />
+      <module name="eureka (1)" options="-parameters" />
+      <module name="resource_server" options="-parameters" />
+      <module name="resource_server (1)" options="-parameters" />
+      <module name="resource_server (2)" options="-parameters" />
+      <module name="resource_server (3)" options="-parameters" />
+      <module name="resource_server (4)" options="-parameters" />
+      <module name="source" options="-parameters" />
+      <module name="source (1)" options="-parameters" />
+      <module name="source (2)" options="-parameters" />
+      <module name="source (3)" options="-parameters" />
+      <module name="source (4)" options="-parameters" />
+      <module name="source (5)" options="-parameters" />
+      <module name="test" options="-parameters" />
+      <module name="test (1)" options="-parameters" />
+      <module name="test (2)" options="-parameters" />
+      <module name="test (3)" options="-parameters" />
+      <module name="test (4)" options="-parameters" />
+      <module name="test (5)" options="-parameters" />
+      <module name="test (6)" options="-parameters" />
+      <module name="test (7)" options="-parameters" />
+      <module name="test (8)" options="-parameters" />
+      <module name="zuul" options="-parameters" />
+      <module name="zuul (1)" options="-parameters" />
+    </option>
+  </component>
+</project>

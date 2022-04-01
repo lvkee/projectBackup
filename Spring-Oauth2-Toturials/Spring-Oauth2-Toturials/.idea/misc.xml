@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/video_code/2.jwt_token/auth/pom.xml" />
+        <option value="$PROJECT_DIR$/video_code/2.jwt_token/test/pom.xml" />
+        <option value="$PROJECT_DIR$/video_code/2.jwt_token/source/pom.xml" />
+        <option value="$PROJECT_DIR$/video_code/3.store_in_db/auth/pom.xml" />
+        <option value="$PROJECT_DIR$/video_code/3.store_in_db/test/pom.xml" />
+        <option value="$PROJECT_DIR$/video_code/3.store_in_db/source/pom.xml" />
+        <option value="$PROJECT_DIR$/video_code/1.simple_token/auth/pom.xml" />
+        <option value="$PROJECT_DIR$/video_code/1.simple_token/test/pom.xml" />
+        <option value="$PROJECT_DIR$/video_code/1.simple_token/source/pom.xml" />
+        <option value="$PROJECT_DIR$/video_code/5.spring_cloud/auth/pom.xml" />
+        <option value="$PROJECT_DIR$/video_code/5.spring_cloud/test/pom.xml" />
+        <option value="$PROJECT_DIR$/video_code/5.spring_cloud/zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/video_code/5.spring_cloud/eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/video_code/5.spring_cloud/source1/pom.xml" />
+        <option value="$PROJECT_DIR$/video_code/5.spring_cloud/source2/pom.xml" />
+        <option value="$PROJECT_DIR$/video_code/4.jwt_store_in_db/auth/pom.xml" />
+        <option value="$PROJECT_DIR$/video_code/4.jwt_store_in_db/test/pom.xml" />
+        <option value="$PROJECT_DIR$/video_code/4.jwt_store_in_db/source/pom.xml" />
+        <option value="$PROJECT_DIR$/2_jwt_token/test/pom.xml" />
+        <option value="$PROJECT_DIR$/2_jwt_token/resource_server/pom.xml" />
+        <option value="$PROJECT_DIR$/2_jwt_token/authorization_server/pom.xml" />
+        <option value="$PROJECT_DIR$/3_store_in_db/test/pom.xml" />
+        <option value="$PROJECT_DIR$/3_store_in_db/resource_server/pom.xml" />
+        <option value="$PROJECT_DIR$/3_store_in_db/authorization_server/pom.xml" />
+        <option value="$PROJECT_DIR$/1_simple_token/test/pom.xml" />
+        <option value="$PROJECT_DIR$/1_simple_token/resource_server/pom.xml" />
+        <option value="$PROJECT_DIR$/1_simple_token/authorization_server/pom.xml" />
+        <option value="$PROJECT_DIR$/4_spring_cloud/test/pom.xml" />
+        <option value="$PROJECT_DIR$/4_spring_cloud/zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/4_spring_cloud/eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/4_spring_cloud/resource_server_1/pom.xml" />
+        <option value="$PROJECT_DIR$/4_spring_cloud/resource_server_2/pom.xml" />
+        <option value="$PROJECT_DIR$/4_spring_cloud/authorization_server/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

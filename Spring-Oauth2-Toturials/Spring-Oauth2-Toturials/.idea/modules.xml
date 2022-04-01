@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Oauth2-Toturials.iml" filepath="$PROJECT_DIR$/.idea/Spring-Oauth2-Toturials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/video_code/2.jwt_token/auth/auth.iml" filepath="$PROJECT_DIR$/video_code/2.jwt_token/auth/auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/video_code/3.store_in_db/auth/auth (1).iml" filepath="$PROJECT_DIR$/video_code/3.store_in_db/auth/auth (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video_code/1.simple_token/auth/auth (2).iml" filepath="$PROJECT_DIR$/video_code/1.simple_token/auth/auth (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video_code/5.spring_cloud/auth/auth (3).iml" filepath="$PROJECT_DIR$/video_code/5.spring_cloud/auth/auth (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video_code/4.jwt_store_in_db/auth/auth (4).iml" filepath="$PROJECT_DIR$/video_code/4.jwt_store_in_db/auth/auth (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_jwt_token/authorization_server/authorization_server.iml" filepath="$PROJECT_DIR$/2_jwt_token/authorization_server/authorization_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_store_in_db/authorization_server/authorization_server (1).iml" filepath="$PROJECT_DIR$/3_store_in_db/authorization_server/authorization_server (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_simple_token/authorization_server/authorization_server (2).iml" filepath="$PROJECT_DIR$/1_simple_token/authorization_server/authorization_server (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_spring_cloud/authorization_server/authorization_server (3).iml" filepath="$PROJECT_DIR$/4_spring_cloud/authorization_server/authorization_server (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video_code/5.spring_cloud/eureka/eureka.iml" filepath="$PROJECT_DIR$/video_code/5.spring_cloud/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_spring_cloud/eureka/eureka (1).iml" filepath="$PROJECT_DIR$/4_spring_cloud/eureka/eureka (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_jwt_token/resource_server/resource_server.iml" filepath="$PROJECT_DIR$/2_jwt_token/resource_server/resource_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_store_in_db/resource_server/resource_server (1).iml" filepath="$PROJECT_DIR$/3_store_in_db/resource_server/resource_server (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_simple_token/resource_server/resource_server (2).iml" filepath="$PROJECT_DIR$/1_simple_token/resource_server/resource_server (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_spring_cloud/resource_server_1/resource_server (3).iml" filepath="$PROJECT_DIR$/4_spring_cloud/resource_server_1/resource_server (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_spring_cloud/resource_server_2/resource_server (4).iml" filepath="$PROJECT_DIR$/4_spring_cloud/resource_server_2/resource_server (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video_code/2.jwt_token/source/source.iml" filepath="$PROJECT_DIR$/video_code/2.jwt_token/source/source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/video_code/3.store_in_db/source/source (1).iml" filepath="$PROJECT_DIR$/video_code/3.store_in_db/source/source (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video_code/1.simple_token/source/source (2).iml" filepath="$PROJECT_DIR$/video_code/1.simple_token/source/source (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video_code/5.spring_cloud/source1/source (3).iml" filepath="$PROJECT_DIR$/video_code/5.spring_cloud/source1/source (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video_code/5.spring_cloud/source2/source (4).iml" filepath="$PROJECT_DIR$/video_code/5.spring_cloud/source2/source (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video_code/4.jwt_store_in_db/source/source (5).iml" filepath="$PROJECT_DIR$/video_code/4.jwt_store_in_db/source/source (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video_code/2.jwt_token/test/test.iml" filepath="$PROJECT_DIR$/video_code/2.jwt_token/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/video_code/3.store_in_db/test/test (1).iml" filepath="$PROJECT_DIR$/video_code/3.store_in_db/test/test (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video_code/1.simple_token/test/test (2).iml" filepath="$PROJECT_DIR$/video_code/1.simple_token/test/test (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video_code/5.spring_cloud/test/test (3).iml" filepath="$PROJECT_DIR$/video_code/5.spring_cloud/test/test (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video_code/4.jwt_store_in_db/test/test (4).iml" filepath="$PROJECT_DIR$/video_code/4.jwt_store_in_db/test/test (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_jwt_token/test/test (5).iml" filepath="$PROJECT_DIR$/2_jwt_token/test/test (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_store_in_db/test/test (6).iml" filepath="$PROJECT_DIR$/3_store_in_db/test/test (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_simple_token/test/test (7).iml" filepath="$PROJECT_DIR$/1_simple_token/test/test (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_spring_cloud/test/test (8).iml" filepath="$PROJECT_DIR$/4_spring_cloud/test/test (8).iml" />
+      <module fileurl="file://$PROJECT_DIR$/video_code/5.spring_cloud/zuul/zuul.iml" filepath="$PROJECT_DIR$/video_code/5.spring_cloud/zuul/zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_spring_cloud/zuul/zuul (1).iml" filepath="$PROJECT_DIR$/4_spring_cloud/zuul/zuul (1).iml" />
+    </modules>
+  </component>
+</project>

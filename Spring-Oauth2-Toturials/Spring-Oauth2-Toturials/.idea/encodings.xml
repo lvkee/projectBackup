@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/1_simple_token/authorization_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1_simple_token/resource_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1_simple_token/test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2_jwt_token/authorization_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2_jwt_token/resource_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2_jwt_token/test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3_store_in_db/authorization_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3_store_in_db/resource_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/3_store_in_db/test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4_spring_cloud/authorization_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4_spring_cloud/eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4_spring_cloud/resource_server_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4_spring_cloud/resource_server_2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4_spring_cloud/test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4_spring_cloud/zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/video_code/1.simple_token/auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/video_code/1.simple_token/source/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/video_code/1.simple_token/test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/video_code/2.jwt_token/auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/video_code/2.jwt_token/source/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/video_code/2.jwt_token/test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/video_code/3.store_in_db/auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/video_code/3.store_in_db/source/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/video_code/3.store_in_db/test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/video_code/4.jwt_store_in_db/auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/video_code/4.jwt_store_in_db/source/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/video_code/4.jwt_store_in_db/test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/video_code/5.spring_cloud/auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/video_code/5.spring_cloud/eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/video_code/5.spring_cloud/source1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/video_code/5.spring_cloud/source2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/video_code/5.spring_cloud/test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/video_code/5.spring_cloud/zuul/src/main/java" charset="UTF-8" />
+  </component>
+</project>
