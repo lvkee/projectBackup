@@ -1,0 +1,17 @@
+﻿body {
+}
+.stylecs {
+    background-color:yellow;
+    font-style:oblique;
+    font-size:medium;
+    border:2px;
+    border-color:black;
+}
+
+label {
+    background-color: yellow;
+    font-style: oblique;
+    font-size: medium;
+    border: 2px;
+    border-color: black;
+}
