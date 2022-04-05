@@ -4,3 +4,6 @@
 [submodule "javaEE_SSM"]
 	path = javaEE_SSM
 	url = https://github.com/lvkee/javaEE_SSM.git
+[submodule "lvkee.github.io"]
+	path = lvkee.github.io
+	url = ./lvkee.github.io/
