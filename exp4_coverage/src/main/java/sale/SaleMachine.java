@@ -6,10 +6,6 @@ public class SaleMachine {
     private final String[] answer = {"很抱歉，没有", "请取走", "拿好五元，请取走", "没有零钱，退您十元", "错误指令"};
 
     public SaleMachine() {
-//        fiveNum：五元面值的货币
-        /*fiveNum = 5;
-        orangeNum = 5;
-        beerNum = 5;*/
     }
 
     public String sale(String drink, int money, int fiveNum, int orangeNum, int beerNum) {
@@ -37,7 +33,7 @@ public class SaleMachine {
                 result = answer[3];
             } else {
                 fiveNum--;
-                result = answer[1] + drink;
+                result = answer[2] + drink;
                 if (drink.equals(type[0])) {
                     beerNum--;
                 } else if (drink.equals(type[1])) {
